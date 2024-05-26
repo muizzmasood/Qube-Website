@@ -1,2 +1,2 @@
 # Qube-Website
-As a Frontend Developer, I created the Qube Website, using Vue.js via CDN. I ensured seamless user experiences with HTML, CSS, and JavaScript.
+As a Frontend Developer, I created the Qube Website using HTML and CSS to create a responsive Website
