@@ -1,0 +1,35 @@
+@media screen and (max-width: 600px) {
+    .qube-header-title {
+        font-size: 20px;
+    }
+    .qube-header-text{
+        font-size: 10px;
+    }
+    .qube-card-image{
+        display: none;
+        
+    }
+    .qube-header-button{
+        font-size: 0.85rem;
+        width: max-content;
+        align-items: baseline;
+        /* margin-left: -22px; */
+        height: auto;
+    }
+    .inTouch_card{
+        display: contents;
+        width: 100%;
+    }
+    .stakeWithUs-card{
+        display: none;
+    }
+    .investWithUs-card{
+        display: none;
+    }
+    .FAQs-card{
+        display: none;
+    }
+    .getInTouch-card{
+        display: none;
+    }
+}
